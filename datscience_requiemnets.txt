@@ -1,0 +1,5 @@
+Python ,Pycharm, Anaconda
+
+Libraries
+1. Pandas
+2. Numpy
